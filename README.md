@@ -8,6 +8,6 @@ prueba
 3
 4
 5
-No se como hacer las listas
 
-Por qué no sale
+No se ven los cambios locales
+
