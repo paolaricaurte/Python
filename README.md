@@ -15,3 +15,5 @@ No se ven los cambios locales
 
 dagaijapoidjgopj
 El único consuelo es que ella está más perdida que yo, jajaja
+
+/ Pues si, siempre hay alguien peor /
